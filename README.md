@@ -6,6 +6,7 @@ VS Code extension that provides syntax highlighting for the [OpenFGA](https://op
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/openfga/vscode-ext/blob/main/LICENSE)
 [![Discord Server](https://img.shields.io/discord/759188666072825867?color=7289da&logo=discord "Discord Server")](https://discord.gg/8naAwJfWN6)
 [![Twitter](https://img.shields.io/twitter/follow/openfga?color=%23179CF0&logo=twitter&style=flat-square "@openfga on Twitter")](https://twitter.com/openfga)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenfga%2Fvscode-ext.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenfga%2Fvscode-ext?ref=badge_shield)
 
 ## About
 
@@ -104,3 +105,6 @@ See [CONTRIBUTING](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md)
 ## License
 
 This project is licensed under the Apache-2.0 license. See the [LICENSE](https://github.com/openfga/vscode-ext/blob/main/LICENSE) file for more info.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenfga%2Fvscode-ext.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenfga%2Fvscode-ext?ref=badge_large)
